@@ -14,7 +14,7 @@
 
 ---
 
-## **Semana 2: CI/CD y Observabilidad con OpenTelemetry** (6 horas)
+## **Semana 2: CI/CD 
 | Sesión | Tema | Detalles | Horas |
 |--------|------|----------|-------|
 | **3** | **CI/CD** | 📌 Automatizacion de builds, variables y secretos, estrategoas de despliegue.<br>📌 Integración con Terraform y Kubernetes. | 3h |
@@ -45,7 +45,7 @@
 
 ---
 
-## **Semana (?): Feedback y Cierre** (3 horas)
+## **Semana (6): Feedback y Cierre** (3 horas)
 | Sesión | Tema | Detalles | Horas |
 |--------|------|----------|-------|
 | **??** | **Labs ** | 📌 presentacion laboratorio, preguntas. | 1.5h |
