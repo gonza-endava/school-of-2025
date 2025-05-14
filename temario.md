@@ -41,7 +41,7 @@
 | Sesión | Tema | Detalles | Horas |
 |--------|------|----------|-------|
 | **8** | **Kubernetes Parte 1** | 📌 Conceptos básicos: Pods, Deployments, Services, ConfigMaps, Secrets, Namespaces, RBAC, Helm y gestión de charts.<br>📌 Ingress, StatefulSets, Autoescalado con `HorizontalPodAutoscaler`. | 3h |
-| **9** | **Observabilidad con OpenTelemetry** | 📌 Introducción a OpenTelemetry, tracing en aplicaciones Python, `otel-collector`.<br>📌 Integración con Prometheus, Grafana, Jaeger, ELK. | 3h |
+
 
 ---
 
