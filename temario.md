@@ -34,8 +34,12 @@
 ## **Semana 4: AI/ML con Python y Metodologías Ágiles** (6 horas)
 | Sesión | Tema | Detalles | Horas |
 |--------|------|----------|-------|
-| **7** | **AI/ML con Python** | 📌 Fundamentos de Machine Learning, `scikit-learn`, `TensorFlow`.<br>📌 Entrenamiento y despliegue de modelos en AWS SageMaker y Azure ML, introducción a MLOps. | 3h |
-| **8** | **Scrum, Kanban y Buenas Prácticas** | 📌 Metodologías ágiles, gestión de equipos y herramientas, code reviews, seguridad en código. | 3h |
+| **7** | **AI/ML con Python** | 📌 Python 101
+Basic LLM concepts, eg. Tokens, prompts, embeddings, context windows, etc.
+LLM APIs 101: GPT, Claude, Gemini, Ollama
+How to chain AI, tools: A2A, MCP, AG-UI, LangGraph 
+Memory and Context, eg: Pinecone
+Tools y function calling. | 6h |
 
 ---
 
