@@ -56,7 +56,7 @@
 ## **Semana 7 AI/ML con Python y Metodologías Ágiles** (6 horas)
 | Sesión | Tema | Detalles | Horas |
 |--------|------|----------|-------|
-| **12** | **AI Basics** | 📌 Python 101 | 3hs|
+| **12** | **AI Basics** | 📌 Basic LLM concepts, LLM APIs 101, tools | 3hs|
 | **13** | **AI/ML con Python** | 📌 Agregar logica con LLM a la API Python.| 3|
 
 *AI Basics*
