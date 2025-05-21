@@ -1,10 +1,12 @@
 ## **Details - Hands-on programme**
 ---
 
-Frequency: twice a week (Tuesday and Thursday) from 9 to 12 pm
-Mode: In person - Endava office.
-Duration: 10 weeks approx.
-Start date: 14/07/2025
+| Details |
+|----------|
+|Frequency: twice a week (Tuesday and Thursday) from 9 to 12 pm|
+|Mode: In person - Endava office.|
+|Duration: 10 weeks approx.|
+|Start date: 14/07/2025|
  
 |Target Audience |
 |----------------|
