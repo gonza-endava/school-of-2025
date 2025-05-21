@@ -1,8 +1,19 @@
-# 📅 Cronograma del Bootcamp: Software Engineering con DevOps, Testing, AI y Cloud  
-**🕒 Duración:** 10 semanas  
-**📚 Clases:** 2 veces por semana, 3 horas por sesión  
-**⏳ Total de horas:** 60 horas max
+## **Details - Hands-on programme**
 
+Frequency: twice a week (Tuesday and Thursday) from 9 to 12 pm
+Mode: In person - Endava office.
+Duration: 10 weeks approx.
+Start date: 14/07/2025
+ 
+Target Audience
+16 students
+IT students (University, UTU, Programming Courses, etc.)
+No IT work experience 
+Uruguay resident
+English: Intermediate+
+Personal Computer with an Internet connection
+---
+## **CRONOGRAMA**
 ---
 
 ## **Semana 1: Introducción, Linux, Git** 
