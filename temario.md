@@ -6,13 +6,14 @@ Mode: In person - Endava office.
 Duration: 10 weeks approx.
 Start date: 14/07/2025
  
-Target Audience
-16 students
-IT students (University, UTU, Programming Courses, etc.)
-No IT work experience 
-Uruguay resident
-English: Intermediate+
-Personal Computer with an Internet connection
+|Target Audience |
+|----------------|
+|16 students|
+|IT students (University, UTU, Programming Courses, etc.)|
+|No IT work experience |
+|Uruguay resident|
+|English: Intermediate+|
+|Personal Computer with an Internet connection|
 
 ## **CRONOGRAMA**
 ---
