@@ -57,7 +57,7 @@
 | Sesión | Tema | Detalles | Horas |
 |--------|------|----------|-------|
 | **13** | **AI Basics** | 📌 Basic LLM concepts, LLM APIs 101, tools | 3hs|
-| **14** | **AI/ML con Python** | 📌 Agregar logica con LLM a la API Python.| 3|
+| **14** | **AI/ML con Python** | 📌 Agregar logica con LLM a la API Python.| 3hs|
 
 *AI Basics*
 Basic LLM concepts, eg. Tokens, prompts, embeddings, context windows, etc.
