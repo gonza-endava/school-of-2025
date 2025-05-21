@@ -26,7 +26,7 @@
 | **4** | **API Basic Concepts** | 📌Conceptos base de API | 1.5h |
 | **5** | **Python y Flask?** | 📌 Desarrollar una API Basica | 4.5h |
 
---
+---
 
 ## **Semana 4: API TESTING en Python 
 | Sesión | Tema | Detalles | Horas |
@@ -34,7 +34,7 @@
 | **5** | **API Testing** | 📌Conceptos base de testing y de api testing | 1.5h |
 | **6** | **API Automation** | 📌Automatizando test de API | 4.5h |
 
---
+---
 
 ## **Semana 5: CI/CD 
 | Sesión | Tema | Detalles | Horas |
