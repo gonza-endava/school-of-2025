@@ -1,4 +1,5 @@
 ## **Details - Hands-on programme**
+---
 
 Frequency: twice a week (Tuesday and Thursday) from 9 to 12 pm
 Mode: In person - Endava office.
@@ -12,7 +13,7 @@ No IT work experience
 Uruguay resident
 English: Intermediate+
 Personal Computer with an Internet connection
----
+
 ## **CRONOGRAMA**
 ---
 
