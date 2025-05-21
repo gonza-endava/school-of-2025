@@ -1,7 +1,7 @@
 # 📅 Cronograma del Bootcamp: Software Engineering con DevOps, Testing, AI y Cloud  
 **🕒 Duración:** 10 semanas  
 **📚 Clases:** 2 veces por semana, 3 horas por sesión  
-**⏳ Total de horas:** 48 horas  
+**⏳ Total de horas:** 60 horas max
 
 ---
 
@@ -31,33 +31,33 @@
 ## **Semana 4: API TESTING en Python**
 | Sesión | Tema | Detalles | Horas |
 |--------|------|----------|-------|
-| **5** | **API Testing** | 📌Conceptos base de testing y de api testing | 1.5h |
-| **6** | **API Automation** | 📌Automatizando test de API | 4.5h |
+| **6** | **API Testing** | 📌Conceptos base de testing y de api testing | 1.5h |
+| **7** | **API Automation** | 📌Automatizando test de API | 4.5h |
 
 ---
 
 ## **Semana 5: CI/CD**
 | Sesión | Tema | Detalles | Horas |
 |--------|------|----------|-------|
-| **7** | **Docker** | 📌que es docker?, como se usa, ventajas. | 1.5h |
-| **8** | **CI/CD** | 📌 Automatizacion de builds, variables y secretos, estrategoas de despliegue.<br>📌 Integración con Terraform y Kubernetes. | 1.5h |
-| **9** | **CI/CD** | 📌 Desplegar la API y los test creados una pipeline. | 3h |
+| **8** | **Docker** | 📌que es docker?, como se usa, ventajas. | 1.5h |
+| **9** | **CI/CD** | 📌 Automatizacion de builds, variables y secretos, estrategoas de despliegue.<br>📌 Integración con Terraform y Kubernetes. | 1.5h |
+| **10** | **CI/CD** | 📌 Desplegar la API y los test creados una pipeline. | 3h |
 
 ---
 
 ## **Semana 6: Cloud Computing y AI en DevOps**
 | Sesión | Tema | Detalles | Horas |
 |--------|------|----------|-------|
-| **10** | **Cloud Computing AWS + Azure** | 📌 Modelos de servicio (IaaS, PaaS, SaaS), IAM, Networking en Cloud, gestión de permisos y seguridad. Los pilares | 3h |
-| **11** | **Integración de OpenAI y DeepSeek en DevOps y Testing** | 📌 Generación de código con AI, optimización de infraestructura con AI, AI ops, custom gpts | 3h |
+| **11** | **Cloud Computing AWS + Azure** | 📌 Modelos de servicio (IaaS, PaaS, SaaS), IAM, Networking en Cloud, gestión de permisos y seguridad. Los pilares | 3h |
+| **12** | **Integración de OpenAI y DeepSeek en DevOps y Testing** | 📌 Generación de código con AI, optimización de infraestructura con AI, AI ops, custom gpts | 3h |
 
 ---
 
 ## **Semana 7 AI/ML con Python**
 | Sesión | Tema | Detalles | Horas |
 |--------|------|----------|-------|
-| **12** | **AI Basics** | 📌 Basic LLM concepts, LLM APIs 101, tools | 3hs|
-| **13** | **AI/ML con Python** | 📌 Agregar logica con LLM a la API Python.| 3|
+| **13** | **AI Basics** | 📌 Basic LLM concepts, LLM APIs 101, tools | 3hs|
+| **14** | **AI/ML con Python** | 📌 Agregar logica con LLM a la API Python.| 3|
 
 *AI Basics*
 Basic LLM concepts, eg. Tokens, prompts, embeddings, context windows, etc.
@@ -71,7 +71,7 @@ Tools y function calling. | 6h |
 ## **Semana 8: Kubernetes** 
 | Sesión | Tema | Detalles | Horas |
 |--------|------|----------|-------|
-| **14** | **Kubernetes Parte 1** | 📌 Conceptos básicos: Pods, Deployments, Services, ConfigMaps, Secrets, Namespaces, RBAC, Helm y gestión de charts.<br>📌 Ingress, StatefulSets, Autoescalado con `HorizontalPodAutoscaler`. | 3h |
+| **15** | **Kubernetes Parte 1** | 📌 Conceptos básicos: Pods, Deployments, Services, ConfigMaps, Secrets, Namespaces, RBAC, Helm y gestión de charts.<br>📌 Ingress, StatefulSets, Autoescalado con `HorizontalPodAutoscaler`. | 3h |
 
 ---
 
