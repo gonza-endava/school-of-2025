@@ -5,18 +5,24 @@
 
 ---
 
-## **Semana 1: Introducción, Linux, Git y Python** (6 horas)
+## **Semana 1: Introducción, Linux, Git** (6 horas)
 | Sesión | Tema | Detalles | Horas |
 |--------|------|----------|-------|
 | **0** | **Presentación + Introducción a DevOps y Software Engineering** | 📌 Presentación de profesores, expectativas del bootcamp, aclaración de dudas y responsabilidades.<br>📌 Cultura DevOps y Software Engineering: diferencias entre Dev y Ops, ciclo de vida del software, automatización, CI/CD. | 1.5h |
-| **1** | **Linux y Git Essentials** | 📌 Introducción a Linux: comandos esenciales, gestión de procesos, SSH, scripting básico (`bash`).<br>📌 Uso de Git: flujo de trabajo, commits, branches (`git flow`, `merge`, `rebase`), resolución de conflictos. | 1.5h |
-| **2** | **Introducción a Python** | 📌 Sintaxis y estructuras de datos (`lists`, `dicts`, `sets`, `tuples`).<br>📌 Funciones y modularización.<br>📌 Manejo de excepciones (`try-except`).<br>📌 Introducción a `virtualenv` y `pip`. | 3h |
+| **1** | **Linux y Git Essentials** | 📌 Introducción a Linux: comandos esenciales, gestión de procesos, SSH, scripting básico (`bash`).<br>📌 Uso de Git: flujo de trabajo, commits, branches (`git flow`, `merge`, `rebase`), resolución de conflictos. | 4.5h |
 
 ---
-## **Semana 2 y 3: Python Development 
+
+## **Semana 2: Python Basics
 | Sesión | Tema | Detalles | Horas |
 |--------|------|----------|-------|
-| **3** | **Python** | 📌Desarrollando en Python | 3h |
+| **2** | **Python** | 📌General introduccion sintaxis python| 3h |
+| **3** | **Scripting en Python** | 📌 Python enfocado en DevOps (`lists`, `dicts`, `sets`, `tuples`).<br>📌 Funciones y modularización.<br>📌 Manejo de excepciones (`try-except`).<br>📌 Introducción a `virtualenv` y `pip`. | 3h |
+
+---
+## **Semana 3: Python Development 
+| Sesión | Tema | Detalles | Horas |
+|--------|------|----------|-------|
 | **4** | **API Basic Concepts** | 📌Conceptos base de API | 1.5h |
 | **5** | **Python y Flask?** | 📌 Desarrollar una API Basica | 4.5h |
 
