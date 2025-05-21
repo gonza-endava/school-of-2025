@@ -33,7 +33,6 @@
 ## **Semana 5: CI/CD 
 | Sesión | Tema | Detalles | Horas |
 |--------|------|----------|-------|
-
 | **7** | **Docker** | 📌que es docker?, como se usa, ventajas. | 1.5h |
 | **8** | **CI/CD** | 📌 Automatizacion de builds, variables y secretos, estrategoas de despliegue.<br>📌 Integración con Terraform y Kubernetes. | 1.5h |
 | **9** | **CI/CD** | 📌 Desplegar la API y los test creados una pipeline. | 3h |
@@ -51,8 +50,8 @@
 ## **Semana 7 AI/ML con Python y Metodologías Ágiles** (6 horas)
 | Sesión | Tema | Detalles | Horas |
 |--------|------|----------|-------|
-| **12** | **AI Basics** | 📌 Python 101
-| **13** | **AI/ML con Python** | 📌 Agregar logica con LLM a la API Phyton. 
+| **12** | **AI Basics** | 📌 Python 101 | 3hs|
+| **13** | **AI/ML con Python** | 📌 Agregar logica con LLM a la API Phyton.| 3|
 
 *AI Basics*
 Basic LLM concepts, eg. Tokens, prompts, embeddings, context windows, etc.
