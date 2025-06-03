@@ -14,7 +14,7 @@
 
 ---
 
-## **Semana 2: CI/CD 
+## **Semana 2: CI/CD Y Docker 
 | Sesión | Tema | Detalles | Horas |
 |--------|------|----------|-------|
 
