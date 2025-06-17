@@ -65,7 +65,6 @@
 |--------|------|----------|-------|-------|
 | **11** | **Cloud Computing AWS + Azure** | 📌 Modelos de servicio (IaaS, PaaS, SaaS), IAM, Networking en Cloud, gestión de permisos y seguridad. Los pilares | 3h | 1.5hs |
 | **11 bis** | ** Intro a terraform ** | 📌 Intro a terraform | 3h | 1.5hs |
-
 | **12** | **Integración de OpenAI y DeepSeek en DevOps y Testing** | 📌 Generación de código con AI, optimización de infraestructura con AI, AI ops, custom gpts | 3h | Alvaro Gareppe |
 
 ---
