@@ -55,7 +55,7 @@
 | Sesión | Tema | Detalles | Horas | Responsable |
 |--------|------|----------|-------|-------|
 | **8** | **Docker** | 📌que es docker?, como se usa, ventajas. | 1.5h | Pendiente |
-| **9** | **CI/CD** | 📌 Automatizacion de builds, variables y secretos, estrategoas de despliegue.<br>📌 Integración con Terraform y Kubernetes. | 1.5h | Pendiente |
+| **9** | **CI/CD** | 📌 Automatizacion de builds, variables y secretos, estrategoas de despliegue.<br>📌 | 1.5h | Pendiente |
 | **10** | **CI/CD** | 📌 Desplegar la API y los test creados una pipeline. | 3h | Pendiente |
 
 ---
@@ -63,7 +63,9 @@
 ## **Semana 6: Cloud Computing y AI en DevOps**
 | Sesión | Tema | Detalles | Horas | Responsable |
 |--------|------|----------|-------|-------|
-| **11** | **Cloud Computing AWS + Azure** | 📌 Modelos de servicio (IaaS, PaaS, SaaS), IAM, Networking en Cloud, gestión de permisos y seguridad. Los pilares | 3h | Andres B, capaz esta en salto, le parece mucho 3hs |
+| **11** | **Cloud Computing AWS + Azure** | 📌 Modelos de servicio (IaaS, PaaS, SaaS), IAM, Networking en Cloud, gestión de permisos y seguridad. Los pilares | 3h | 1.5hs |
+| **11 bis** | ** Intro a terraform ** | 📌 Intro a terraform | 3h | 1.5hs |
+
 | **12** | **Integración de OpenAI y DeepSeek en DevOps y Testing** | 📌 Generación de código con AI, optimización de infraestructura con AI, AI ops, custom gpts | 3h | Alvaro Gareppe |
 
 ---
